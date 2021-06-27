@@ -1,0 +1,88 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Honour Project</string>
+    <string name="puzzle_programme">Learn Programme</string>
+    <string name="exercise">Exercise</string>
+    <string name="test">Test</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="button">Button</string>
+    <string name="setting">Setting</string>
+    <string name="content">Content</string>
+    <string name="text1">Data types specify the different sizes and values that can be stored in the variable. There are two types of data types in Java:</string>
+    <string name="text2">1.Primitive data types: The primitive data types include boolean, char, byte, short, int, long, float and double.</string>
+    <string name="text3">2.Non-primitive data types: The non-primitive data types include Classes, Interfaces, and Arrays(This data types will be explain in other part).</string>
+    <string name="loop1">A loop statement use to execute a statement or group statement multiple times. And in loop control, there are 3 different types of loop.</string>
+    <string name="while1">The while loop is used to repeat execute the block of code. It will keep repeat execute until the meet the condition. </string>
+    <array name="Java">
+        <item>Basic Syntax</item>
+        <item>Object</item>
+        <item>Class</item>
+        <item>Operator</item>
+        <item>Numbers</item>
+    </array>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="answer1">Button</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="whileloop">WhileLoop</string>
+    <string name="textview">TextView</string>
+    <string name="whileCode">Following the code, the while loop is going to executed the statements - Hello World 5 times. It is because
+    the condition has given less the 6, and it not going to execute more the 5 times. Therefore the result output will print Hello World 5 times.
+    To get more easy to understand how it work. There is a flowchart.</string>
+
+
+    <string name="forloop">Following the code, the control falls into the for loop. The initialization is done, and it jumps to condition. If condition is true, it keep execute. If condition is false, it ends the loop.
+    And the result output will print Hello World 5 times. To get more easy to understand how it work. There is a flowchart.</string>
+
+    <string name="dowhile">Following the code, the control falls into the do-while loop. When statement get executed, it jumps to the condition. If condition
+    is true, it return to the statement, and repeat the step again. If condition is false, and it end the executed. And the result will print Hello World 5 times.</string>
+
+    <string name="Info">This is application is base on a personal project. It would not ask any user information.
+        No login or registration require. Hope everyone can learn the basic Java language in this application.</string>
+
+    <string name="objectClass">In Java, object have states and behaviors. And class is like an object constructor for creating objects. </string>
+    <string name="object">In this example of code, we have created an object called myObj. And our class name is objectClass.
+    And the code print the value of x is 5.</string>
+    <string name="object2">This is a similar example. What the difference in this code, in one class we can have multiple objects.
+    Therefore, the code will print 5 and 6.</string>
+
+
+    <string name="operator">The operator in java language is used to perform operation on variables and values.</string>
+    <string name="operator2">It is same as the math, [+] is use to adds two values or more together. [-] is use to subtract one value from another.</string>
+
+    <string name="syntax" tools:ignore="StringEscaping">Java is a very sensitive programming language. Which mean Hello and hello are different
+    in Java.</string>
+
+    <string name="syntax2">Normally in Java, we often start the method name as lower case letter.</string>
+
+</resources>
